@@ -9,11 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://iml1s.github.io/">Portfolio</a> ·
+  <a href="https://aa22396584.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sam-lung-86ab62191/">LinkedIn</a> ·
   <a href="https://github.com/aa22396584?tab=repositories">Repositories</a> ·
   <a href="https://github.com/pulls?q=is%3Apr+author%3Aaa22396584">Pull requests</a>
 </p>
+
+**Why this GitHub account?** Public repositories that used to live under [`ImL1s`](https://github.com/ImL1s) are developed here now because that account is currently restricted (anonymous visitors get 404 on the profile and many assets). These are the same projects. Please open Issues and Pull Requests on the `aa22396584` repositories. Mirrors remain on [GitLab](https://gitlab.com/aa22396584) and [Codeberg](https://codeberg.org/ImL1s).
 
 ## What I do
 
